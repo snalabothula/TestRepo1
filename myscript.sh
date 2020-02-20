@@ -2,6 +2,6 @@
 echo "Hello How are you ?"
 for  i in  {1..20}
 do
-echo $i
+echo "The number is $i"
 done
 
