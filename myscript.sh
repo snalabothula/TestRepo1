@@ -5,6 +5,7 @@ do
 if [ $(expr $i % 2) -eq 0 ]
 then
 echo "The number $i even number"
+else "$i is odd number"
 fi
 done
 
